@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NadielySilva/VainaWeb_Landingpage.git/static/css/main.e6c13ad2.css",
+    "main.js": "/NadielySilva/VainaWeb_Landingpage.git/static/js/main.430b9cc9.js",
+    "static/js/787.a220e49e.chunk.js": "/NadielySilva/VainaWeb_Landingpage.git/static/js/787.a220e49e.chunk.js",
+    "static/media/Banner.png": "/NadielySilva/VainaWeb_Landingpage.git/static/media/Banner.653128559f74fe94272d.png",
+    "static/media/Training_Image@2x.png": "/NadielySilva/VainaWeb_Landingpage.git/static/media/Training_Image@2x.bb8bc682986286434177.png",
+    "static/media/Logo.svg": "/NadielySilva/VainaWeb_Landingpage.git/static/media/Logo.c36305da718696f760d4e5fe7baad1be.svg",
+    "static/media/ScreenIcon.svg": "/NadielySilva/VainaWeb_Landingpage.git/static/media/ScreenIcon.adad5776c35babdac3177083e09f556b.svg",
+    "index.html": "/NadielySilva/VainaWeb_Landingpage.git/index.html",
+    "static/media/SearchIcon.svg": "/NadielySilva/VainaWeb_Landingpage.git/static/media/SearchIcon.96c32d1b8ba7c5c600bb10907fa753a0.svg",
+    "main.e6c13ad2.css.map": "/NadielySilva/VainaWeb_Landingpage.git/static/css/main.e6c13ad2.css.map",
+    "main.430b9cc9.js.map": "/NadielySilva/VainaWeb_Landingpage.git/static/js/main.430b9cc9.js.map",
+    "787.a220e49e.chunk.js.map": "/NadielySilva/VainaWeb_Landingpage.git/static/js/787.a220e49e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.430b9cc9.js"
+  ]
+}
