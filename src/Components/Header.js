@@ -105,7 +105,7 @@ export default function Header() {
             <Nav />
           </Menu>
           <Banner>
-            <Title> // Quer construir uma carreira de sucesso como Desenvolvedor(a) Front-end?</Title>
+            <Title> _// Quer construir uma carreira de sucesso como Desenvolvedor(a) Front-end?</Title>
             <div>
               <TabContainer>
                 <TabMarker></TabMarker>
